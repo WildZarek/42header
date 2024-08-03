@@ -1,5 +1,7 @@
 # 42header
 
+![42 header](assets/header.jpg)
+
 Script de Bash para instalar y configurar el plugin necesario para añadir el header de 42 en el editor Vim.<br>
 El archivo "install.sh" tiene comentarios en cada comando, te invito a leerlos y entender lo que hace.<br>
 Además, puedes ver el GitHub original del plugin en el siguiente enlace:
