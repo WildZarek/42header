@@ -21,7 +21,7 @@ Además, puedes ver el GitHub original del plugin en el siguiente enlace:
 
 ### UTILIZACIÓN:
 
-Una vez abierto Vim, estando en modo **NORMAL** puedes escribir: <code>:Stdheader</code> y darle a la tecla <kbd>ENTER</kbd>.<br>
+Una vez abierto Vim, estando en modo **NORMAL** puedes escribir: <code>:Stdheader</code> y darle a la tecla <kbd>ENTER</kbd><br>
 O simplemente puedes darle a la tecla <kbd>F1</kbd>
 
 En **Linux** es posible que debas desactivar el atajo de teclado hacia el comando **help** de la **terminal**.<br>
