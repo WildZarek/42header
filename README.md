@@ -1,10 +1,9 @@
 # 42header
 
-![42 header](assets/header.jpeg)
+![Header](assets/header.png)
 
 Script de Bash para instalar y configurar el plugin necesario para añadir el header de 42 en el editor Vim.<br>
-El archivo "install.sh" tiene comentarios en cada comando, te invito a leerlos y entender lo que hace.<br>
-Además, puedes ver el GitHub original del plugin en el siguiente enlace:
+Puedes ver el GitHub original del plugin en el siguiente enlace:
 **[https://github.com/42Paris/42header](https://github.com/42Paris/42header)**
 
 ### INSTALACIÓN:
@@ -14,10 +13,11 @@ Además, puedes ver el GitHub original del plugin en el siguiente enlace:
 3. Clona este repositorio: <code>git clone https://github.com/WildZarek/42header</code>
 4. Entra en el directorio creado: <code>cd 42header</code>
 5. Dale permisos de ejecución al script: <code>chmod +x install.sh</code>
-5. Ejecuta el script de instalación de este modo: 
+6. Ejecuta el script de instalación de este modo: 
     <code>./install.sh tu_usuario_en_la_intra_42</code>
-    <br>(Ejemplo: ./install.sh dsarmien)
-6. Cierra la terminal y abre una nueva.
+    <br>(Ejemplo: ./install.sh dsarmien) <- Si no se proporciona ningún usuario, se tomará el del sistema actual.
+    ![Running](assets/running.png)
+7. Cierra la terminal y abre una nueva.
 
 ### UTILIZACIÓN:
 
@@ -27,9 +27,9 @@ O simplemente puedes darle a la tecla <kbd>F1</kbd>
 En **Linux** es posible que debas desactivar el atajo de teclado hacia el comando **help** de la **terminal**.<br>
 Para **Terminator**, ve a -> Preferences -> Shortcuts -> y cambia el atajo de teclado a otra cosa distinta de <kbd>F1</kbd>
 
+> ##### Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+
 Si tienes alguna duda o necesitas ayuda, escríbeme en Slack :sunglasses:<br>
-Si te ha sido de utilidad, puedes seguirme :arrow_down: o darle una :star: a este repositorio.<br>
-@ [WildZarek](https://github.com/WildZarek) (WildZarek)
 
 ### LICENCIA
 
