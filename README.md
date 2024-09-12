@@ -27,9 +27,9 @@ O simplemente puedes darle a la tecla <kbd>F1</kbd>
 En **Linux** es posible que debas desactivar el atajo de teclado hacia el comando **help** de la **terminal**.<br>
 Para **Terminator**, ve a -> Preferences -> Shortcuts -> y cambia el atajo de teclado a otra cosa distinta de <kbd>F1</kbd>
 
-> ##### Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
-
-Si tienes alguna duda o necesitas ayuda, escríbeme en Slack :sunglasses:<br>
+> [!NOTE]
+> Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+> Si tienes alguna duda o necesitas ayuda, escríbeme en Slack :sunglasses:
 
 ### LICENCIA
 
