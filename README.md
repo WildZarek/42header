@@ -28,7 +28,7 @@ En **Linux** es posible que debas desactivar el atajo de teclado hacia el comand
 Para **Terminator**, ve a -> Preferences -> Shortcuts -> y cambia el atajo de teclado a otra cosa distinta de <kbd>F1</kbd>
 
 > [!NOTE]
-> Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+> Si consideras útil este proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!<br>
 > Si tienes alguna duda o necesitas ayuda, escríbeme en Slack :sunglasses:
 
 ### LICENCIA
